@@ -1,0 +1,1 @@
+This Calculator Program is a simple application developed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The project was created to improve programming skills and gain a better understanding of fundamental programming concepts.
